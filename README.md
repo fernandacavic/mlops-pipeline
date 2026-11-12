@@ -2,7 +2,7 @@
 
 Autor: Fernanda Cavicchioli Zola
 
-Projeto gerado como parte do exercício de modularização do curso de MLOps.
+
 
 ## Estrutura
 
