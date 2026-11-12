@@ -35,7 +35,7 @@ mlops-pipeline/
    python generate_data.py
    ```
 
-3. Implementar os módulos em `src/` (ver enunciado do exercício)
+3. Implementar os módulos em `src/` 
 
 4. Executar o pipeline:
    ```bash
@@ -52,4 +52,4 @@ git remote add origin https://github.com/fernandacavic/mlops-pipeline.git
 git push -u origin main
 ```
 
-O repositório deve ser **público** para que a correção automática funcione.
+
